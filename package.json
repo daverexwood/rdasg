@@ -1,0 +1,23 @@
+{
+  "name": "rdasg",
+  "version": "1.0.0",
+  "description": "Roller Derby All-Star Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Wood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daverexwood/rdasg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daverexwood/rdasg/issues"
+  },
+  "homepage": "https://github.com/daverexwood/rdasg#readme"
+}
